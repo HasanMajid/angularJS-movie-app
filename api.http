@@ -1,0 +1,6 @@
+GET https://freetestapi.com/api/v1/movies?search=dark
+Content-Type: application/json
+
+###
+
+GET https://www.freetestapi.com/api/v1/movies?search=dark
